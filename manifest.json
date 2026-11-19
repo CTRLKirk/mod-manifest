@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "generatedUtc": "2026-11-18T00:00:00Z",
+  "mods": [
+    {
+      "name": "BunnySuit",
+      "latestVersion": "0.2.0",
+      "downloadUrl": "https://github.com/CTRLKirk/Game-Modding/releases/download/bunnysuit-v0.2.0/BunnySuit-v0.2.0.zip",
+      "changelogUrl": "https://github.com/CTRLKirk/Game-Modding/releases/tag/bunnysuit-v0.2.0"
+    },
+    {
+      "name": "PumpkinSpiceLatte",
+      "latestVersion": "1.5.1.0",
+      "downloadUrl": "https://github.com/CTRLKirk/Game-Modding/releases/download/latte-v1.5.1.0/PumpkinSpiceLatte-v1.5.1.0.zip",
+      "changelogUrl": "https://github.com/CTRLKirk/Game-Modding/releases/tag/latte-v1.5.1.0"
+    }
+  ]
+}
