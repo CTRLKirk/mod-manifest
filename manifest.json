@@ -4,7 +4,7 @@
   "mods": [
     {
       "name": "BunnySuit",
-      "latestVersion": "0.2.0",
+      "latestVersion": "0.1.0",
       "downloadUrl": "https://github.com/CTRLKirk/Game-Modding/releases/download/bunnysuit-v0.2.0/BunnySuit-v0.2.0.zip",
       "changelogUrl": "https://github.com/CTRLKirk/Game-Modding/releases/tag/bunnysuit-v0.2.0"
     },
