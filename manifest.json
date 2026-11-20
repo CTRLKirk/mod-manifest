@@ -6,19 +6,25 @@
       "name": "KirksPinkBunnySuit",
       "latestVersion": "0.2.2",
       "downloadUrl": "https://www.nexusmods.com/7daystodie/mods/14109",
-      "changelogUrl": "https://www.nexusmods.com/7daystodie/mods/14109"
+      "changelogUrl": "https://www.nexusmods.com/7daystodie/mods/14109",
+      "directUrl": "https://github.com/CTRLKirk/7dtd-mod-downloads/releases/download/downloads-v1/Kirks-Pink-Bunny-Suit-v0.2.2.zip",
+      "sha256": "0863d6600b47965711fdacbcb1c2ef7d7f6b00b6d742a15eee2b5ca7454a02f1"
     },
     {
       "name": "KirksPumpkinSpiceLatte",
       "latestVersion": "1.5.4.0",
       "downloadUrl": "https://www.nexusmods.com/7daystodie/mods/14111",
-      "changelogUrl": "https://www.nexusmods.com/7daystodie/mods/14111"
+      "changelogUrl": "https://www.nexusmods.com/7daystodie/mods/14111",
+      "directUrl": "https://github.com/CTRLKirk/7dtd-mod-downloads/releases/download/downloads-v1/Kirks-Pumpkin-Spice-Latte-v1.5.4.0.zip",
+      "sha256": "1f927bfb366846d244b1f86bb6f13e4b81a2f37bd28ea109a699c0088336b845"
     },
     {
       "name": "KirksSlurpee",
       "latestVersion": "6.2.2",
       "downloadUrl": "https://www.nexusmods.com/7daystodie/mods/10463",
-      "changelogUrl": "https://www.nexusmods.com/7daystodie/mods/10463"
+      "changelogUrl": "https://www.nexusmods.com/7daystodie/mods/10463",
+      "directUrl": "https://github.com/CTRLKirk/7dtd-mod-downloads/releases/download/downloads-v1/Kirks-Slurpee-v6.2.2.zip",
+      "sha256": "433988c93cbe8e23c5e42a7f3abe36e23c8481fdfe75c4075a5b578bfbe515a4"
     }
   ]
 }
