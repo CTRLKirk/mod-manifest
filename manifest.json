@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedUtc": "2026-11-20T04:45:09Z",
+  "generatedUtc": "2026-11-20T23:18:19Z",
   "mods": [
     {
       "name": "KirksPinkBunnySuit",
@@ -25,6 +25,14 @@
       "changelogUrl": "https://www.nexusmods.com/7daystodie/mods/10463",
       "directUrl": "https://github.com/CTRLKirk/7dtd-mod-downloads/releases/download/downloads-v1/Kirks-Slurpee-v6.2.2.zip",
       "sha256": "433988c93cbe8e23c5e42a7f3abe36e23c8481fdfe75c4075a5b578bfbe515a4"
+    },
+    {
+      "name": "KirksEnergyDrinksPack",
+      "latestVersion": "2.0.2",
+      "downloadUrl": "https://www.nexusmods.com/7daystodie/mods/10487",
+      "changelogUrl": "https://www.nexusmods.com/7daystodie/mods/10487",
+      "directUrl": "https://github.com/CTRLKirk/7dtd-mod-downloads/releases/download/downloads-v1/Kirks-Energy-Drinks-Pack-v2.0.2.zip",
+      "sha256": "e4e00fff88a845c1fd354aa8314924dd5925af91db3133d4006fd8d272eb4fcc"
     }
   ]
 }
