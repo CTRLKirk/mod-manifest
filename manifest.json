@@ -33,14 +33,6 @@
       "changelogUrl": "https://www.nexusmods.com/7daystodie/mods/10487",
       "directUrl": "https://github.com/CTRLKirk/7dtd-mod-downloads/releases/download/downloads-v1/Kirks-Energy-Drinks-Pack-v2.0.2.zip",
       "sha256": "e4e00fff88a845c1fd354aa8314924dd5925af91db3133d4006fd8d272eb4fcc"
-    },
-    {
-      "name": "KirksHaloSniper",
-      "latestVersion": "3.4.0",
-      "downloadUrl": "https://www.nexusmods.com/7daystodie/mods/10476",
-      "changelogUrl": "https://www.nexusmods.com/7daystodie/mods/10476",
-      "directUrl": "https://github.com/CTRLKirk/7dtd-mod-downloads/releases/download/downloads-v1/Kirks-Halo-Sniper-v3.4.0.zip",
-      "sha256": "d7dfc395b58000978ac2a60ad7cecd513cbd0d4b19b75fa6f665b774851b2292"
     }
   ]
 }
