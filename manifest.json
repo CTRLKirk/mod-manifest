@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generatedUtc": "2026-11-18T00:00:00Z",
+  "generatedUtc": "2026-11-20T04:24:20Z",
   "mods": [
     {
       "name": "BunnySuit",
-      "latestVersion": "0.1.0",
+      "latestVersion": "0.2.0",
       "downloadUrl": "https://github.com/CTRLKirk/Game-Modding/releases/download/bunnysuit-v0.2.0/BunnySuit-v0.2.0.zip",
       "changelogUrl": "https://github.com/CTRLKirk/Game-Modding/releases/tag/bunnysuit-v0.2.0"
     },
